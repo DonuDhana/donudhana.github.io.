@@ -1,0 +1,9 @@
+.maindiv {
+    /* position: fixed;
+    left: auto;
+    top: 0;
+    right: 0; */
+    width: 100%;
+    background:tomato;
+    padding: 0 1rem !important; 
+  }
